@@ -7,7 +7,7 @@ age = 23
 favourite_language = "python"
 goal = "i want to learn python programming language"
 
-print(name)
-print(age)
-print(favourite_language)
-print(goal)
+print("Hello, my name is", name)
+print("I am", age, "years old")
+print("My favourite programming language is", favourite_language)
+print("My goal for this course is:", goal)
